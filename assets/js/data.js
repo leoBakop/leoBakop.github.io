@@ -48,7 +48,7 @@ window.CV = {
 
   EXPERIENCE: [
     {
-      when: "Dec 2024 – Present",
+      when: "Dec 2025 – Present",
       title: "Researcher, ERC Project NEURi3D",
       where: "Technical University of Crete",
       text: "Research on 3D Transformers and new decision-making algorithms (reinforcement learning, world models) for point clouds."
