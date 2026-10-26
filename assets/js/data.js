@@ -8,8 +8,8 @@ window.CV = {
 
   NEWS: [
     { date: "May 2026", text: "Presented <b>ADEU</b> at AAMAS 2026 in Paphos, Cyprus. <a href=\"ADEU/\">Project page</a>." },
+    { date: "Dec 2025", text: "Joined the ERC project <b>NEURi3D</b>." },
     { date: "Aug 2025", text: "<b>Seldonian Reinforcement Learning for Ad Hoc Teamwork</b> appeared at RLC 2025 (Edmonton, Canada)." },
-    { date: "Dec 2024", text: "Joined the ERC project <b>NEURi3D</b>." },
     { date: "Mar 2024", text: "Started my PhD at the Technical University of Crete." }
   ],
 
